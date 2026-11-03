@@ -1,6 +1,8 @@
  <div align="center">
-
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlcm1xd3p0YjBuc2k2ZGFmbW80ZnpweHlpaWpva2VxYTNzb21hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+  <img src="./WhatsApp%20Image%202025-02-27%20at%2018.31.12.jpeg"
+       width="200"
+       alt="Minha ilustração">
+</div>
 
   # Hello World! 👋
 
