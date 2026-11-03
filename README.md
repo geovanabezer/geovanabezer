@@ -1,51 +1,70 @@
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlcm1xd3p0YjBuc2k2ZGFmbW80ZnpweHlpaWpva2VxYTNzb21hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif"  />
+ <div align="center">
+
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVlcm1xd3p0YjBuc2k2ZGFmbW80ZnpweHlpaWpva2VxYTNzb21hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+
+  # Hello World! 👋
+
+  **Hi, I'm Geovana!** 🇧🇷
+
+  *Exploring technology, coding and data.*
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/geovanabezerra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+### ✨ About Me
+
+Hi! I'm Geovana, a Brazilian developer passionate about technology and continuous learning.
+
+- 🐍 Currently learning Python and backend development.
+- 🌐 Interested in web development and APIs.
+- 📊 Exploring data analysis and data visualization.
+- 🌎 Working with geospatial data and climate dashboards.
+- 💻 Always learning and improving my programming skills.
+
+### 🛠️ Languages and Technologies
+
+**Programming Languages**
+
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-###
+**Frameworks and Libraries**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=looouser.looouser&"  />
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
 </div>
 
-###
+**Databases and Tools**
 
-<h1 align="center">Hello World!</h1>
+<div>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+</div>
 
-###
-
-<h3 align="left">✨ About Me</h3>
-
-###
-
-<p align="left">Hi! I'm Geovana from Brazil 🇧🇷<br><br>- I'm currently learning Python for backend development<br>- Interested in building web applications and APIs<br>- Always learning and improving my skills in technology</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+**Currently Exploring**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+
+  ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+  ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 </div>
 
-###
+---
+
+<div align="center">
+
+  *"Every expert was once a beginner."* ✨
+
+</div>
