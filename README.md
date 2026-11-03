@@ -17,8 +17,6 @@
 
 ### ✨ About Me
 
-Hi! I'm Geovana, a Brazilian developer passionate about technology and continuous learning.
-
 - 🐍 Currently learning Python and backend development.
 - 🌐 Interested in web development and APIs.
 - 📊 Exploring data analysis and data visualization.
