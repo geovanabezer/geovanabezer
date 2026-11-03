@@ -60,11 +60,3 @@ Hi! I'm Geovana, a Brazilian developer passionate about technology and continuou
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-  *"Every expert was once a beginner."* ✨
-
-</div>
